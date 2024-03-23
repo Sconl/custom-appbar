@@ -1,0 +1,20 @@
+name: custom_appbar
+description: a package to implement custom app bars in my flutter projects
+homepage: https://github.com/Sconl
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_central_dependency:
+    git:
+      url: git@github.com:Sconl/flutter_central_dependency.git
+
+flutter:
+  uses-material-design: true
+
