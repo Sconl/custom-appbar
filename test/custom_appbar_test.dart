@@ -1,6 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:custom_appbar/custom_appbar.dart';
 
 void main() {
   test('adds one to input values', () {
